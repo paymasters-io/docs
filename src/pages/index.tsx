@@ -3,9 +3,9 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import PluginSection from '../components/sdk/PluginSection';
+
 import HeroSection from '../components/Hero/Herosection';
-import ExpectSection from '../components/Expect/ExpectSection';
+import FeaturesSection from '../components/features/Features';
 import styles from './index.module.css';
 
 // function HomepageHeader() {
@@ -35,8 +35,8 @@ export default function Home(): JSX.Element {
       description="Simplifying transactions with paymasters <head />">
        <main>
        <HeroSection />
-       <PluginSection />
-       <ExpectSection />
+       <FeaturesSection />
+
        </main>      
     </Layout>
   );
