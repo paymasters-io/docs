@@ -1,8 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 
-const CodeImg = require('@site/static/assets/pm-images/codeblock.png').default
-
 const GoodCircleImg = () => {
     return (
         <svg className='h-8 w-12  text-paymasters-dark-400' fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -10,7 +8,6 @@ const GoodCircleImg = () => {
         </svg>
     )
 }
-
 
 export default function Features() {
 
@@ -64,7 +61,6 @@ export default function Features() {
                 </div>
             </section>
         </div>
-
 
     )
 }

@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 
 import HeroSection from '../components/Hero/Herosection';
 import FeaturesSection from '../components/features/Features';
-import styles from './index.module.css';
+import DashboardSection from '../components/dashboardsection/Dashboard';
 
 // function HomepageHeader() {
 //   const {siteConfig} = useDocusaurusContext();
@@ -35,8 +35,8 @@ export default function Home(): JSX.Element {
       description="Simplifying transactions with paymasters <head />">
        <main>
        <HeroSection />
+       <DashboardSection />
        <FeaturesSection />
-
        </main>      
     </Layout>
   );

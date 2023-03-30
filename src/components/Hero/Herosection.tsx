@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 
-const ChainImg = require('@site/static/assets/pm-images/chain_section4.png').default
 const CodeImg = require('@site/static/assets/pm-images/codeblock.png').default
 
 export default function HeroSection() {
@@ -28,10 +27,7 @@ export default function HeroSection() {
           <img src={CodeImg} alt="code block image" />
           {/* <img src={ChainImg} alt="hero image" className='' /> */}
           </div>
-          
-      
-        
-      </section>
-       
+                  
+      </section>       
     );
 }
