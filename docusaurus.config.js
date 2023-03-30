@@ -12,16 +12,16 @@ const config = {
   favicon: 'assets/pm-images/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Paymasters-io.github.com',
+  url: 'https://Paymasters-io.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Paymasters-io', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
-  trailingSlash: false,         
+ // organizationName: 'Paymasters-io', // Usually your GitHub org/user name.
+ // projectName: 'docs', // Usually your repo name.
+  //trailingSlash: false,         
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
