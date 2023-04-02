@@ -7,7 +7,7 @@ export default function CreatePaymastersSection() {
     return (
         <section className="flex  py-10 font-sans items-center text-black ">
 
-            <div className=' w-full px-16 py-4 '>
+            <div className=' w-full lg:px-16 xl:px-16  py-4 '>
                 <div className='flex justify-center items-center bg-gray-100 py-6 rounded-lg  '>
 
                     <div className='flex overflow-hidden  md:flex-col lg:flex-wrap xl:flex-wrap justify-center p-4 gap-16 my-4'>

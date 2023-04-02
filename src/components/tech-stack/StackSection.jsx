@@ -12,7 +12,7 @@ export default function StackSection() {
     return (
         <section className="py-20 flex bg-gray-200 text-black flex-col lg:flex-row gap-20 lg:gap-0 justify-between mx-auto px-4 sm:px-6 lg:px-8">
 
-            <div className=' w-full px-16 py-4 '>
+            <div className=' w-full lg:px-16 xl:px-16 py-4 '>
                 <div className='flex flex-col py-6 rounded-lg justify-center '>
                     <div className='text-center'>
                         <h1 className="text-4xl font-bold my-4 text-center "> Tech Stack</h1>
