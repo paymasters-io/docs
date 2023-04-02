@@ -5,8 +5,13 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
 import HeroSection from '../components/Hero/Herosection';
+import ContactSection from '../components/contact-us/Contact';
 import FeaturesSection from '../components/features/Features';
 import DashboardSection from '../components/dashboardsection/Dashboard';
+import StackSection from '../components/tech-stack/StackSection';
+import PluginSection from '../components/plugins/Plugins';
+import CreatePaymastersSection from '../components/create-paymasters/CreatePaymasters';
+
 
 // function HomepageHeader() {
 //   const {siteConfig} = useDocusaurusContext();
@@ -35,8 +40,13 @@ export default function Home(): JSX.Element {
       description="Simplifying transactions with paymasters <head />">
        <main>
        <HeroSection />
+      
+       <StackSection />
+       <CreatePaymastersSection />
+       <PluginSection />
        <DashboardSection />
        <FeaturesSection />
+       <ContactSection />
        </main>      
     </Layout>
   );
