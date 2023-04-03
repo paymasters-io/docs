@@ -65,7 +65,7 @@ export default function ContactSection() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Ipsum veritatis expedita, officiis consectetur
                             </p>
-                            <a className='no-underline hover:text-blue-500 decoration-0' href={`https://twitter.com/paymasters_io"`}>
+                            <a className='no-underline hover:text-blue-500 decoration-0' href={`https://twitter.com/paymasters_io`}>
                                 twitter
                             </a>
                         </div>

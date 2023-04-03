@@ -12,7 +12,6 @@ import StackSection from '../components/tech-stack/StackSection';
 import PluginSection from '../components/plugins/Plugins';
 import CreatePaymastersSection from '../components/create-paymasters/CreatePaymasters';
 
-
 // function HomepageHeader() {
 //   const {siteConfig} = useDocusaurusContext();
 //   return (
