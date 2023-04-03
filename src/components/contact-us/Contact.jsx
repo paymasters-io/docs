@@ -5,7 +5,7 @@ export default function ContactSection() {
     return (
         <section className="flex  py-10 font-sans items-center text-black ">
 
-            <div className=' w-full px-16 py-4 '>
+            <div className=' w-full lg:px-16  py-4 '>
                 <div className='flex flex-col bg-gray-100 py-6 rounded-lg justify-center '>
                     <div>
                         <h1 className="text-3xl font-bold my-4 text-center">Get in touch with us</h1>

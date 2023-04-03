@@ -6,11 +6,11 @@ export default function PluginSection() {
     return (
         <section className="flex  py-10 font-sans items-center text-black ">
 
-            <div className=' w-full lg:px-16 xl:px-16 py-4 '>
+            <div className=' w-full sm:px-0 lg:px-16 py-4 '>
                 <div className='flex flex-col bg-gray-100 py-6 rounded-lg  '>
 
                     <div className='flex overflow-hidden justify-center flex-wrap p-4 gap-16 my-4'>
-                        <div className="flex  border w-3/4 md:2/4 lg:w-2/4 xl:2/4">
+                        <div className="flex  border sm:w-2/4 md:2/4 lg:w-2/4 xl:2/4">
                             <img src={AccessImg} className="w-full border rounded-xl" alt="plugin dashboard" />
                             {/* <img className="w-full md:w-2/3 lg:w-1/2" src={Dashboard} alt=" Dashboard Image" /> */}
                         </div>
