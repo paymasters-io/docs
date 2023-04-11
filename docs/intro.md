@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # Introduction
@@ -16,13 +17,17 @@ In some cases, paymasters may be internal employees of an organization who are r
 
 Paymasters may also be responsible for managing other financial transactions, such as the payment of invoices or the disbursement of funds to contractors or suppliers. They typically have access to sensitive financial information and must maintain a high level of accuracy and confidentiality in their work.
 
-## Paymasters in Web3 
+## EIP-4337: Paymasters in Web3 
 
-In the context of Web3, the term "paymaster" refers to a smart contract that 
+EIP-4337 is an improvement to the transaction types on the Ethereum blockchain.
+EIP-4337 is an Account Abstraction(AA) — proposal that eliminates the need for consensus layer protocol. It uses a higher-layer pseudo-transaction object called a `UserOperation` instead in a separate mempool.
+EIP-4337 improves the user experience on the Ethereum blockchain. **[Read more - EIP-4337](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4337.md)**
+
+In the context of web3, The term "paymaster" refers to a smart contract that 
 is responsible for managing payments between different parties within a decentralized 
 application (dApp) or blockchain network.
 
-Paymasters in Web3 typically act as intermediaries between users and the blockchain network, helping to facilitate transactions and ensure that all parties involved in a payment are properly compensated. For example, a paymaster might be used to facilitate micropayments between users of a social media platform, or to manage payments between buyers and sellers on an e-commerce site.
+Paymasters in Web3 typically act as intermediaries between users and the blockchain network, helping to facilitate transactions and ensure that all parties involved in a transaction are properly compensated. For example, a paymaster might be used to facilitate micropayments between users of a social media platform, or to manage payments between buyers and sellers on an e-commerce site.
 
 One key advantage of using a paymaster in Web3 is that it can help to reduce transaction fees and increase the efficiency of payment processing. 
 
