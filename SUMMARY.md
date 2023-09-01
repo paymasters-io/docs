@@ -2,3 +2,4 @@
 
 * [😎 Introduction](README.md)
 * [📑 Overview](overview.md)
+* [👨💻 Features](features.md)
