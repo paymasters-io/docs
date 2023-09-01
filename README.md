@@ -1,7 +1,8 @@
 ---
 description: >-
-  Welcome to paymasters.io documentation.  We leverage on account
-  abstraction(AA) so users can access paymasters.
+  Welcome to paymasters.io documentation. Paymasters.io addresses the challenges
+  faced by businesses, developers, and protocols in creating, using, and
+  managing EIP4337 paymasters.
 ---
 
 # 😎 Introduction
@@ -10,15 +11,15 @@ description: >-
 
 ## Overview
 
-At paymasters.io we provide the infrastructure that enables you to seamlessly pay for Ethereum transaction fees.
+Think of gasless applications, simplicity, and superior UX. At paymasters.io we provide the infrastructure that enables you to seamlessly pay for Ethereum transaction fees.
 
 ***
 
 ## Features
 
-* Easily create paymasters using a no-code ui
+* Easily create paymasters using a no-code UI
 * Access control
-* Dashboard
+* User-friendly dashboard
 * ERC20 gating module
 * NFT gating module
 * OnChain rebates module
