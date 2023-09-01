@@ -1,13 +1,8 @@
----
-description: >-
-  Welcome to paymasters.io documentation. Paymasters.io addresses the challenges
-  faced by businesses, developers, and protocols in creating, using, and
-  managing EIP4337 paymasters.
----
+# Introduction
 
-# 😎 Introduction
+## Welcome
 
-***
+Welcome to paymasters.io documentation. Paymasters.io seeks to address the challenges faced by businesses, developers, and protocols in creating, using, and managing EIP4337 paymasters.
 
 ## Overview
 
