@@ -8,8 +8,6 @@ Welcome to paymasters.io documentation. Paymasters.io seeks to address the chall
 
 Think of gasless applications, simplicity, and superior UX. At paymasters.io we provide the infrastructure that enables you to seamlessly pay for Ethereum transaction fees.
 
-***
-
 ## Features
 
 * Easily create paymasters using a no-code UI
