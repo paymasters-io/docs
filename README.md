@@ -13,6 +13,7 @@ Think of gasless applications, simplicity, and superior UX. At paymasters.io we 
 * Easily create paymasters using a no-code UI
 * Access control
 * User-friendly dashboard
+* Developer tooling
 * ERC20 gating module
 * NFT gating module
 * OnChain rebates module

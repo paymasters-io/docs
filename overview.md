@@ -2,13 +2,11 @@
 
 ## EIP4337 Paymaster
 
-EIP-4337 is an improvement to the transaction types on the Ethereum blockchain. EIP-4337 is an Account Abstraction(AA) — proposal that eliminates the need for consensus layer protocol.
-
-
+What is EIP4337 all about?  EIP-4337 is an improvement to the transaction types on the Ethereum blockchain. EIP-4337 is an Account Abstraction(AA) — proposal that eliminates the need for consensus layer protocol.
 
 ## Account Abstraction
 
-Account Abstraction simply put, unifies EOA(externally owned account) and smart contracts accounts. Here is a helpful link to understand account abstraction
+&#x20;In the Web3 world, Account Abstraction has become or is fast becoming a popular term. This is because AA when implemented, improves the user experience. Account Abstraction simply put, unifies EOA(externally owned account) and smart contracts accounts. Here is a helpful link to understand account abstraction and the problem it solves.
 
 {% embed url="https://hackernoon.com/what-is-account-abstraction-and-why-is-everyone-talking-about-it" %}
 
