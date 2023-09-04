@@ -1,8 +1,8 @@
 # 📑 Overview
 
-## EIP4337 Paymaster
+## EIP-4337 Paymaster
 
-What is EIP4337 all about?  EIP-4337 is an improvement to the transaction types on the Ethereum blockchain. EIP-4337 is an Account Abstraction(AA) — proposal that eliminates the need for consensus layer protocol.
+What is EIP-4337 all about?  EIP-4337 is an improvement to the transaction types on the Ethereum blockchain. EIP-4337 is an Account Abstraction(AA) — proposal that eliminates the need for consensus layer protocol.
 
 ## Account Abstraction
 

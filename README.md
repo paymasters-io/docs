@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to paymasters.io documentation. Paymasters.io seeks to address the challenges faced by businesses, developers, and protocols in creating, using, and managing EIP4337 paymasters.
+Welcome to paymasters.io documentation. Here you will find detailed information and helpful tips to enhance your experience. Whether you need assistance with installation, configuration, or advanced usage we have got you covered. Paymasters.io seeks to address the challenges faced by businesses, developers, and protocols in creating, using, and managing EIP-4337 paymasters.
 
 ## Overview
 
