@@ -1,4 +1,4 @@
-# ☮ Account Abstraction
+# 😎 Account Abstraction
 
 To understand account abstraction , we have to first go over the two fundamental accounts used in blockchain.
 
@@ -28,12 +28,20 @@ They are :
 
 ## What is Account Abstraction ?
 
-Account abstraction seeks to address the limitations of the EOAs. It does this by abstracting the Logic used by EOA in signing transactions. As we know, EOA requires you to sign a transaction using your private keys. Account abstractions abstracts that logic out. This then makes the account programmable. It means that you can now exclusively store assets with contract accounts. &#x20;
+Account abstraction seeks to address the limitations of the EOAs. It does this by abstracting the Logic used by EOA in signing transactions. As we know, EOA requires you to sign a transaction using your private keys. Account abstractions abstracts that logic out. This then makes the account programmable. It means that you can now exclusively store assets with contract accounts  which then makes it your primary account. &#x20;
 
 ### How does this(AA) help ?
 
 * You can implement logic in your smart contract that can handle 2fa authentication and withdrawal limits.
 * With AA you can allow for a substitute key in your smart contract code should the original one be misplaced.
 * Optionally code your smart contract to authenticate users through a different method without using a key.
-*
+* Improved user experience.
+* Makes it so developers can be flexible and innovative when they code.
+* You can pay for transaction fees using choice token.
+
+Want to read more ? Here are more articles on account abstraction. [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4337.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4337.md)
+
+{% embed url="https://ethereum.org/en/roadmap/account-abstraction/" %}
+
+{% embed url="https://hackernoon.com/what-is-account-abstraction-and-why-is-everyone-talking-about-it" %}
 
