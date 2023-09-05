@@ -18,6 +18,7 @@ Think of gasless applications, simplicity, and superior UX. At paymasters.io we 
 * NFT gating module
 * OnChain rebates module
 * Human verification module
+* Onyx Module&#x20;
 
 
 
