@@ -25,4 +25,4 @@ Think of gasless applications, simplicity, and superior UX. At paymasters.io we 
 
 ## Blockchain Network
 
-Paymasters.io was implemented on the **zkSync**. It supports all **EVM-compatible** networks.
+Paymasters on this platform leverage account abstraction using zkSync. Zksync is a layer2 scaling platform for Ethereum. zkSync uses a form of zero-knowledge cryptography known as zkRollups to enable fast and cheap transactions on the Ethereum network.
