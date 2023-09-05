@@ -1,4 +1,4 @@
-# EIP-4337 Paymasters
+# 📟 EIP-4337 Paymasters
 
 Let's start by first defining a paymaster. This will help us understand the EIP-4337 paymaster.&#x20;
 
@@ -30,7 +30,7 @@ To better under the reason for the change and what exactly the `UserOperation` o
 
 ## Modular Paymaster
 
-"Modular Paymaster" is a type of paymaster that opens doors to innovation. The smart contract empowers users to define custom modules for our verifying paymaster validation. You can now focus solely on your business logic, while we handle the intricate gas abstraction layer for your users.
+"Modular Paymaster" is a type of paymaster that opens the doors to innovation. The smart contract empowers users to define custom modules for our verifying paymaster validation. You can now focus solely on your business logic, while we handle the intricate gas abstraction layer for your users.
 
 ## ERC20 Paymasters (Multi-Standard token)
 
