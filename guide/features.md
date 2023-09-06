@@ -14,13 +14,22 @@ Sometime in the month of April 2023, the _team_ at paymasters.io pitched paymast
 
 * Easily create paymasters right from the user interface **without writing** any line of code.
 * View your paymaster's transaction history and other information from the dashboard
+* Chart
 * Access control
 * NFT gate
+* ERC20 gate
 * OnChain rebates
 * Human verification
 
 ### Getting Started
 
-To get started, you can go to our user interface.
+To get started, you can go to our dashboard.
 
 {% embed url="https://app.paymasters.io/" %}
+
+When you navigate to the dashboard, click on the smart connect at the top right corner and connect to a wallet. After which you can proceed with creating a paymaster.
+
+{% hint style="info" %}
+Please note that more features are being added to the dashboard.
+{% endhint %}
+
