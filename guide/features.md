@@ -33,6 +33,10 @@ To get started, you can go to our dashboard.
 
 When you navigate to the dashboard, click on the smart connect at the top right corner and connect to a wallet. After which you can proceed with creating a paymaster.
 
+
+
+<figure><img src="../.gitbook/assets/createpaymasters.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Please note that more features are being added to the dashboard.
 {% endhint %}
