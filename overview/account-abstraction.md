@@ -30,7 +30,7 @@ They are :
 
 Account abstraction seeks to address the limitations of the EOAs. It does this by abstracting the Logic used by EOA in signing transactions. As we know, EOA requires you to sign a transaction using your private keys. Account abstractions abstracts that logic out. This then makes the account programmable. It means that you can now exclusively store assets with contract accounts  which then makes it your primary account. &#x20;
 
-### How does this(AA) help ?
+### How does AA help ?
 
 * You can implement logic in your smart contract that can handle 2fa authentication and withdrawal limits.
 * With AA you can allow for a substitute key in your smart contract code should the original one be misplaced.
