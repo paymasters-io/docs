@@ -1,8 +1,12 @@
-# Features
+# 🚀 Features
 
 {% hint style="info" %}
 _Paymasters.io provides the infrastructure from which users can access and use paymasters, basically being able to opt-in to any paymaster of choice and also providing a means for institutions/dApps to noticeably propagate this feature to their users._
 {% endhint %}
+
+## Contract
+
+To run the paymasters.io contract, please go through the readme and clone the project. Here is a link to our contract [https://github.com/paymasters-io/contracts/tree/main](https://github.com/paymasters-io/contracts/tree/main)
 
 ## Demo
 

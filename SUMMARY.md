@@ -9,4 +9,4 @@
 
 ## Guide
 
-* [Features](guide/features.md)
+* [🚀 Features](guide/features.md)
