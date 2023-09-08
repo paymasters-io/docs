@@ -10,3 +10,4 @@
 ## Guide
 
 * [🚀 Features](guide/features.md)
+* [🖲 Setup](guide/setup.md)
