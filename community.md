@@ -2,7 +2,7 @@
 
 Please follow our Twitter page for more updates and don't forget to give us a shoutout.
 
-{% embed url="https://twitter.com/paymasters_io" fullWidth="true" %}
+{% embed url="https://twitter.com/paymasters_io" fullWidth="false" %}
 
 ### Other links
 
@@ -22,7 +22,7 @@ We also participated in the Encode Club Layer 2 accelerator program.
 
 ### The Team
 
-You can also follow members of the team on Twitter:
+You can also follow members of the team on Twitter/X:
 
 * Peter  - [https://twitter.com/PeterAnyaogu](https://twitter.com/PeterAnyaogu)
 * Ariel -  [https://twitter.com/ArielIkon](https://twitter.com/ArielIkon)

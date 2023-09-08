@@ -18,6 +18,7 @@ Few months ago, the _team_ at paymasters.io pitched paymasters.io to the web3 co
 
 * Easily create paymasters right from the user interface **without writing** any line of code.
 * View your paymaster's transaction history and other information from the dashboard
+* View the list of paymaster contracts and select an active paymaster.
 * Chart
 * Access control
 * NFT gate
