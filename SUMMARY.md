@@ -11,3 +11,7 @@
 
 * [🚀 Features](guide/features.md)
 * [🖲 Setup](guide/setup.md)
+
+***
+
+* [🙊 Community](community.md)
