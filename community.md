@@ -29,4 +29,4 @@ You can also follow members of the team on Twitter:
 * Ross - [https://twitter.com/Tuk2ross](https://twitter.com/Tuk2ross)
 * Miracle - [https://twitter.com/Miracleio](https://twitter.com/Miracleio)
 
-Please feel free to reach out to us on social medial.
+Please feel free to reach out to us on social media.
