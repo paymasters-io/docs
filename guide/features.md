@@ -10,7 +10,7 @@ To run the paymasters.io contract, please go through the readme and clone the pr
 
 ## Demo
 
-Sometime in the month of April 2023, the _team_ at paymasters.io pitched paymasters.io to the web3 community. Here is a walkthrough of our presentation&#x20;
+Few months ago, the _team_ at paymasters.io pitched paymasters.io to the web3 community. Here is a walkthrough of our presentation&#x20;
 
 {% embed url="https://www.youtube.com/watch?t=2s&v=M-d7SMOwgSY" %}
 
