@@ -2,7 +2,7 @@
 
 Please follow our Twitter page for more updates and don't forget to give us a shoutout.
 
-{% embed url="https://twitter.com/paymasters_io" fullWidth="false" %}
+{% embed url="https://twitter.com/paymasters_io/status/1631729387786706957" %}
 
 ### Other links
 
