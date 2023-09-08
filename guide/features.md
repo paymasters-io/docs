@@ -24,7 +24,7 @@ Few months ago, the _team_ at paymasters.io pitched paymasters.io to the web3 co
 * NFT gate
 * ERC20 gate
 * OnChain rebates
-* Human verification
+* Human verification and more
 
 ### Getting Started
 
