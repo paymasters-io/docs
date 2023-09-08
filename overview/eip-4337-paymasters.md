@@ -36,4 +36,4 @@ To better under the reason for the change and what exactly the `UserOperation` o
 
 Our ERC20 Paymaster sets the **gold standard** for gas abstraction. You may ask what do we mean by **gold standard** for gas abstraction.  This means that with our smart contract, users can pay for transactions using a wide array of ERC20 tokens. The flexibility of our paymaster enables transactions to be settled using any accepted ERC20 token.
 
-<figure><img src="../.gitbook/assets/paymasterslist.png" alt="A List of paymasters contracts displayed on the dashboard" width="563"><figcaption><p>A List of paymaster contracts on the dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/paymasterslist.png" alt="A List of paymasters contracts displayed on the dashboard" width="563"><figcaption><p>A List of paymasters on the dashboard</p></figcaption></figure>
