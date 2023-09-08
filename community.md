@@ -20,7 +20,7 @@ We also participated in the Encode Club Layer 2 accelerator program.
 
 {% embed url="https://medium.com/encode-club/l2-accelerator-summary-afaad7c1cf89" %}
 
-### Team
+### The Team
 
 You can also follow members of the team on Twitter:
 
