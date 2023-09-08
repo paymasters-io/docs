@@ -52,5 +52,5 @@ pnpm test
 
 ### Next Steps
 
-Kindly follow this link to the repo and proceed to the readme for further steps [https://github.com/paymasters-io/contracts/tree/main](https://github.com/paymasters-io/contracts/tree/main)
+Kindly follow this link to the repo for further steps [https://github.com/paymasters-io/contracts/tree/main](https://github.com/paymasters-io/contracts/tree/main)
 
