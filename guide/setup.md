@@ -1,6 +1,6 @@
 # 🖲 Setup
 
-This page gives a quick guide on how to get started with the paymasters.io contract.
+This page shows how to get started with the paymasters.io contract.
 
 ### Quick start
 

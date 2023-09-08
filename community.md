@@ -1,6 +1,6 @@
 # 🙊 Community
 
-Please follow our Twitter page for more updates and don't forget to give us a shout out.
+Please follow our Twitter page for more updates and don't forget to give us a shoutout.
 
 {% embed url="https://twitter.com/paymasters_io" fullWidth="true" %}
 
