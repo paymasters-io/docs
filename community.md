@@ -1,6 +1,6 @@
 # 🙊 Community
 
-Please follow our Twitter page for more updates&#x20;
+Please follow our Twitter page for more updates and don't forget to give us a shout out.
 
 {% embed url="https://twitter.com/paymasters_io" fullWidth="true" %}
 
@@ -12,7 +12,7 @@ Please follow our Twitter page for more updates&#x20;
 
 ### :tada:Achievements
 
-Paymasters.io was the winner of Layer Hack Hackathon by Encode Club - Account Abstraction Bounty sponsored by zkSync (as institutional paymaster).
+Paymasters.io was the winner of the Layer hack hackathon by Encode Club - Account Abstraction Bounty sponsored by zkSync (as institutional paymaster).
 
 {% embed url="https://www.blog.encode.club/layer-hack-prizewinners-and-summary-aa3b13df3869" %}
 
@@ -22,7 +22,11 @@ We also participated in the Encode Club Layer 2 accelerator program.
 
 ### Team
 
-You can also follow members of the team on twitter:
+You can also follow members of the team on Twitter:
 
-* Peter co-founder and smart contract developer - [https://twitter.com/PeterAnyaogu](https://twitter.com/PeterAnyaogu)
-* If
+* Peter  - [https://twitter.com/PeterAnyaogu](https://twitter.com/PeterAnyaogu)
+* Ariel -  [https://twitter.com/ArielIkon](https://twitter.com/ArielIkon)
+* Ross - [https://twitter.com/Tuk2ross](https://twitter.com/Tuk2ross)
+* Miracle - [https://twitter.com/Miracleio](https://twitter.com/Miracleio)
+
+Please feel free to reach out to us on social medial or through our email.
