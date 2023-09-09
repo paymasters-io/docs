@@ -1,6 +1,8 @@
-# 📟 EIP-4337 Paymasters
+# 💡 EIP-4337 Paymasters
 
+{% hint style="info" %}
 Let's start by first defining a paymaster. This will help us understand the EIP-4337 paymaster.&#x20;
+{% endhint %}
 
 ## What is a Paymaster?
 
