@@ -28,7 +28,7 @@ They are :
 
 ## What is Account Abstraction ?
 
-Account abstraction seeks to address the limitations of the EOAs. It does this by abstracting the Logic used by EOA in signing transactions. As we know, EOA requires you to sign a transaction using your private keys. Account abstractions abstracts that logic out. This then makes the account programmable. It means that you can now exclusively store assets with contract accounts  which then makes it your primary account. &#x20;
+Account abstraction seeks to address the limitations of the EOAs. It does this by abstracting the Logic used by EOA in signing transactions. As we know, EOA requires you to sign a transaction using your private keys. Account abstractions abstracts that logic out. This then makes the account programmable. It means that you can now exclusively store assets with contract accounts  and also use it as your primary account. &#x20;
 
 ### How does AA help ?
 
