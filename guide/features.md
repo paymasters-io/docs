@@ -36,7 +36,7 @@ When you navigate to the dashboard, click on the smart connect at the top right 
 
 
 
-<figure><img src="../.gitbook/assets/createpaymasters.png" alt=""><figcaption><p>Create New Paymasters Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/createpaymasters.png" alt="" width="563"><figcaption><p>Create New Paymasters Screen</p></figcaption></figure>
 
 {% hint style="info" %}
 Please note that more features are still being added to the dashboard.
