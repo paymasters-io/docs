@@ -5,7 +5,8 @@
 ## 📑 Overview
 
 * [😎 Account Abstraction](overview/account-abstraction.md)
-* [💡 EIP-4337 Paymasters](overview/eip-4337-paymasters.md)
+* [💡 EIP-4337 ](overview/eip-4337.md)
+* [📦 Paymasters](overview/paymasters.md)
 
 ## 📑 Guide
 
