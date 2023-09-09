@@ -12,7 +12,7 @@ Please follow our Twitter page for more updates and don't forget to give us a sh
 
 ### :tada:Achievements
 
-Paymasters.io was the winner of the Layer hack hackathon by Encode Club - Account Abstraction Bounty sponsored by zkSync (as institutional paymaster).
+Paymasters.io was the winner of the Layer hack hackathon by Encode Club - Account Abstraction Bounty sponsored by zkSync (as institutional paymaster at the time).
 
 {% embed url="https://www.blog.encode.club/layer-hack-prizewinners-and-summary-aa3b13df3869" %}
 
