@@ -4,10 +4,6 @@
 Modular paymaster. A paymaster that opens the doors to innovation
 {% endhint %}
 
-## What is a Paymaster?
-
-A paymaster is simply a person or an organization in charge of distributing payments on behalf of a company or government agency. They typically have access to sensitive financial information and must maintain a high level of accuracy and confidentiality in their work.
-
 ## Modular Paymaster
 
 "Modular Paymaster" is a type of paymaster that opens the doors to innovation. The smart contract empowers users to define custom modules for our verifying paymaster validation. You can now focus solely on your business logic, while we handle the intricate gas abstraction layer for your users.
